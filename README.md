@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <h2 align="center">
 <hr>
-🚀 Autoscript SSH XRAY Websocket Multiport By Vinstechmy (FREE!)🚀
+🚀 Autoscript SSH XRAY Websocket Multiport By FoxEvoh 🚀
 <h2><hr>
   
 <h2 align="center"> ♦️Supported Linux Distribution♦️</h2>
@@ -11,13 +11,13 @@
 
 ## ⚠️ PLEASE README ⚠️
 <b>
- AUTOSCRIPT WEBSOCKET MULTIPORT INI SESUAI UNTUK TRICK MERAH - KUNING - BIRU (MALAYSIA) <br>
+ THIS MULTIPORT WEBSOCKET AUTOSCRIPT IS SUITABLE FOR RED - YELLOW - BLUE (WORLD) TRICK <br>
  <br>
- 1. LINK CONFIG SIAP GENERATE UNTUK TELCO MERAH - KUNING - BIRU (MALAYSIA) <br>
- 2. JIKA TERDAPAT SEBARANG BUG / GLITCH BOLEH LAPORKAN PADA SAYA DI TELEGRAM : @Vinstechmy <br>
+ 1. LINK CONFIG READY TO GENERATE FOR TELCO RED - YELLOW - BLUE (MALAYSIA) <br>
+ 2. IF THERE IS ANY BUG / GLITCH YOU CAN REPORT TO ME ON TELEGRAM : @FoxEvoh <br>
  <br>
  
- SILA PASTIKAN SETTING DOMAIN DI CLOUDFLARE ANDA SEPERTI DIBAWAH (SSL/TLS SETTINGS) <br>
+ PLEASE MAKE SURE YOUR DOMAIN SETTINGS IN YOUR CLOUDFLARE AS BELOW (SSL/TLS SETTINGS) <br>
  ![image](https://user-images.githubusercontent.com/82468311/191471897-986ebe25-5330-4997-8a44-5468b422482a.png) <br>
 
 ![image](https://user-images.githubusercontent.com/82468311/191472903-b55cd39a-8909-4f7c-b3ad-013cb3c91282.png)
@@ -63,7 +63,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 
 </b>
 
-## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT EXAMPLE ⏪
+                                                   ## ⏩ AUTOSCRIPT WEBSOCKET MULTIPORT EXAMPLE ⏪
 <b>
 </b>
 <br>
@@ -78,9 +78,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 <img src="https://user-images.githubusercontent.com/82468311/191024199-5c324236-54d1-458a-8920-9f03621d1e10.png" width="400" title="Autoscript-Lite">
 </p>
 
-## ⏩ BUY ME A COFFEE ? ⏪
+                                                       ## ⏩ BUY ME A COFFEE ? ⏪
 <b>
 <br>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/82468311/189573622-9b165a67-4ae7-4354-bd8d-5fad54c266fa.JPG" width="300" title="Autoscript-Lite">
+<a href="https://www.buymeacoffee.com/Evohsplanet" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 <b>
